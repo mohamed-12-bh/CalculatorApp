@@ -1,0 +1,36 @@
+body {
+  font-family: "Do Hyeon", sans-serif;
+  text-transform: capitalize;
+}
+
+.app {
+  margin-top: 6%;
+}
+.container {
+  width: 42%;
+  min-height: 60vh;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.result {
+  background-color: gray;
+  width: 99.2%;
+  margin-left: 2px;
+  color: #fff;
+}
+.numbers {
+  background-color: #3b3b3b;
+  color: #fff;
+  width: 90px;
+  height: 90px;
+  border: solid 1px;
+}
+.operators {
+  background-color: #ff004c;
+  width: 90px;
+  height: 90px;
+  border: solid 1px;
+  color: #fff;
+}
